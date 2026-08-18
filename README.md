@@ -1,7 +1,7 @@
 #README.md
 
 ```markdown
-# @dravex/log
+# @elsory/log
 
 A beautiful colored console logger with fancy ASCII banner for Node.js.
 
@@ -16,13 +16,13 @@ A beautiful colored console logger with fancy ASCII banner for Node.js.
 ## Installation
 
 ```bash
-npm install @dravex/log
+npm install @elsory/log
 ```
 
 ## Usage
 
 ```js
-const { log } = require('@dravex/log');
+const { log } = require('@elsory/log');
 
 log("This is a normal message");
 log.info("This is an info message");
@@ -67,5 +67,5 @@ Do not remove the header if you want the code to run.
 
 ---
 
-**© 2026 SHIX (X-DRAVE) | All Rights Reserved**
+**© 2026 SHIX (DRAVEX) | All Rights Reserved**
 ```
