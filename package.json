@@ -1,9 +1,9 @@
 #package.json
 
 {
-  "name": "@ASSG0/log",
+  "name": "@assg0/log",
   "version": "1",
-  "description": "logger by ASSG0",
+  "description": "logger by T.me/ASSG0",
   "main": "index.js",
   "keywords": ["logger", "logs", "cli", "colors"],
   "author": "Shix (ASSG0)",
