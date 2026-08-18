@@ -1,6 +1,6 @@
 
 {
-  "name": "@dravex/log",
+  "name": "@elsory/log",
   "version": "1.0.0",
   "description": "logger by T.me/ASSG0",
   "main": "index.js",
