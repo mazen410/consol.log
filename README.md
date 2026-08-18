@@ -1,7 +1,7 @@
 #README.md
 
 ```markdown
-# @assg0/log
+# @dravex/log
 
 A beautiful colored console logger with fancy ASCII banner for Node.js.
 
@@ -16,13 +16,13 @@ A beautiful colored console logger with fancy ASCII banner for Node.js.
 ## Installation
 
 ```bash
-npm install @assg0/log
+npm install @dravex/log
 ```
 
 ## Usage
 
 ```js
-const { log } = require('@ASSG0/log');
+const { log } = require('@dravex/log');
 
 log("This is a normal message");
 log.info("This is an info message");
