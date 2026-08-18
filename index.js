@@ -1,6 +1,6 @@
 //README.md
 
-/*
+/* 
  * © 2026 SHIX (X-DRAVE)
  *
  * ❌ DO NOT CLAIM THIS CODE AS YOUR OWN
