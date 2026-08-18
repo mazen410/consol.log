@@ -1,6 +1,6 @@
 
 {
-  "name": "@assg0/log",
+  "name": "@dravex/log",
   "version": "1.0.0",
   "description": "logger by T.me/ASSG0",
   "main": "index.js",
