@@ -1,7 +1,7 @@
 #README.md
 
 ```markdown
-# @ASSG0/log
+# @assg0/log
 
 A beautiful colored console logger with fancy ASCII banner for Node.js.
 
@@ -16,7 +16,7 @@ A beautiful colored console logger with fancy ASCII banner for Node.js.
 ## Installation
 
 ```bash
-npm install @ASSG0/log
+npm install @assg0/log
 ```
 
 ## Usage
